@@ -1,0 +1,23 @@
+.colorComboLogin {
+    text-align: center;
+    font-weight:bolder;
+    font-size: x-large;
+    margin-bottom: 0px;
+}
+.loginForm {
+    font-family: sans-serif;
+    padding: 0;
+}
+.username, .password {
+    font-weight:bolder;
+}
+
+img {
+    display: block;
+    width: 5em;
+    height: 5em;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    line-height: 2em;
+}
